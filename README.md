@@ -7,11 +7,7 @@
 ## An Electronic and Telecommunication Engineering Undergraduate from Sri Lanka
 
 - 🪐 I’m currently learning **Machine Learning, Deep Learning & AI**.  
- 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
----
+ ---
 
 ## Languages and Tools 💻🛠️
 
@@ -39,28 +35,28 @@
 
 ## Projects ⚙️👨‍💻
 
-### 📱🤖 Electronics, IoT, Robotics
-1. **3D Mapper** - [Repository](#) - A 3D plotting device for short-range object detection powered by ATmega 2560.  
-2. **Analog Wall Following Robot** - [Repository](#) - A wall-following robot made using only analog electronics.  
-3. **Multi Room Sound System** - [Repository](#) - An IoT-integrated smart sound system powered by ESP32.  
-4. **Smarty Plug** - [Repository](#) - An IoT-integrated smart extension cord powered by ATmega328 & ESP8266.  
-5. **Agni Robot** - [Repository](#) - A robot powered by Arduino Mega 2560, capable of various robotics competition tasks.  
-
----
-
 ### 🧠 Machine Learning, Deep Learning, AI
-1. **Movie Recommender System** - [Repository](#) - Recommending movies based on user preferences using a TF-IDF matrix.  
-2. **Olympic Medal Count Prediction** - [Repository](#) - Predicting medal counts in Olympic Games using Linear Regression.  
-3. **Stock Market Price Prediction** - [Repository](#) - Predicting S&P500 Stock Market Index movements using RandomForestClassifier.  
-4. **Real Time Speech Recognition** - [Repository](#) - Recording and transcribing live speech.  
-5. **Dog Classification** - [Repository](#) - Classifying dog breeds with TensorFlow and Keras.  
-6. **Gender & Age Prediction** - [Repository](#) - Detecting faces and predicting age & gender using deep neural networks.  
-7. **IPL Score Prediction** - [Repository](#) - Predicting IPL scores using neural networks.  
-8. **Multiview Triangulation** - [Repository](#) - Based on *Practical Global Optimization for Multiview Geometry*.  
-9. **Hand Gesture Math Solver** - [Repository](#) - Real-time hand gesture recognition using Python, OpenCV, Gemini.  
-10. **Face Recognition** - [Repository](#) - Face recognition with Python, OpenCV, and the Face Recognition library.  
-11. **YouTube Comment Analysis** - [Repository](#) - Sentiment analysis of YouTube comments.  
-12. **AgroChill Time Series Forecasting System** - [Repository](#) - Forecasting weekly prices of fruits and vegetables.  
-13. **Agent Performance Analyser** - [Repository](#) - Predicting insurance agent performance.  
+- **Estimation of Obesity Levels Using Machine Learning** *(Individual Project)* [GitHub](https://github.com/HimanSenaweera/Model-to-predict-obesity-Level.git)  
+  - Downloaded dataset from **UC Irvine ML Repository** and performed EDA using **Pandas**.  
+  - Built models: **K-Means Clustering**, **DNN**, **Softmax Regression**, **Random Forest**, **XGBoost** with **Normalization**, **PCA**, and **Optuna** for hyperparameter tuning.  
 
+- **Potato Disease Classification using CNN** *(Individual Project)* [GitHub](https://github.com/HimanSenaweera/Deep-learning.git)  
+  - Collected and preprocessed potato leaf disease dataset from **Kaggle**.  
+  - Designed & trained **CNN** using **TensorFlow & Keras**, achieving **98% accuracy**.  
+  - Developed responsive **React.js** frontend and lightweight **FastAPI** backend.  
+
+- **A Langchain App to Chat with Multiple PDFs** *(Individual Project)* [GitHub](https://github.com/HimanSenaweera/Langchain-App-.git)  
+  - Used **LangChain** for text extraction, chunking, and similarity matching.  
+  - Integrated **gpt-3.5-turbo-0125** for chat completions and **text-embedding-ada-002-v2** for embeddings.  
+  - Built the web app with **Streamlit**.  
+
+### 👁️ Computer Vision
+- **Computer Vision Projects** *(Individual Projects)*  
+  - Color detection and Face Anonymizer using **OpenCV** — [GitHub](https://github.com/HimanSenaweera/OpenCV-projects.git)  
+  - Object Detection using **YOLOv8n** and Image Classification using **YOLO11n-cls** on custom dataset — [GitHub](https://github.com/HimanSenaweera/Face-Anonymizer-using-OpenCV.git)  
+
+### 🤖 Robotics
+- **Restaurant Robot** *(Group Project)* [GitHub](https://github.com/HimanSenaweera/RestaurantRobot.git)  
+  - Modular restaurant robot for autonomous navigation, food delivery, and guest interaction.  
+  - Programmed the **SAM3X8E** microcontroller using **register-level C** in **Microchip Studio**.  
 ---
