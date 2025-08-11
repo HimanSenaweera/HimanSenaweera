@@ -38,16 +38,15 @@
 ---
 ## Skills 💡
 
-**🤖 Machine Learning & AI**  
-Machine Learning   · Deep Learning   · Generative AI   · Natural Language Processing   · LangChain   · TensorFlow & Keras   · Scikit-learn  
+| 🤖 Machine Learning & AI | 📊 Data Science & Analysis | 🖼️ Computer Vision | 💻 Programming |
+|--------------------------|---------------------------|--------------------|----------------|
+| Machine Learning         | NumPy                     | OpenCV             | Python         |
+| Deep Learning            | Pandas                    | YOLO               | C++            |
+| Generative AI            | Jupyter Notebook          |                    | C              |
+| Natural Language Processing (NLP) |                           |                    |                |
+| LangChain                |                           |                    |                |
+| TensorFlow & Keras       |                           |                    |                |
+| Scikit-learn             |                           |                    |                |
 
-**📊 Data Science & Analysis**  
-NumPy   · Pandas   · Jupyter Notebook  
-
-**🖼️ Computer Vision**  
-OpenCV   · Yolo
-
-**🐍 Programming**  
-Python   · C++   · C
 
 
