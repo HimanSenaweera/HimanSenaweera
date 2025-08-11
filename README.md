@@ -38,30 +38,16 @@
 ---
 ## Skills 💡
 
-### 🤖 Machine Learning & AI
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_LangChain.png" alt="LangChain" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Generative AI" width="40" height="40"/>
-</p>
+**🤖 Machine Learning & AI**  
+Machine Learning · Deep Learning · Generative AI · Natural Language Processing (NLP) · LangChain · TensorFlow & Keras · Scikit-learn  
 
-### 📊 Data Science & Analysis
-<p>
-  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
-</p>
+**📊 Data Science & Analysis**  
+NumPy · Pandas · Jupyter Notebook  
 
-### 🖼️ Computer Vision & NLP
-<p>
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3655/3655587.png" alt="NLP" width="40" height="40"/>
-</p>
+**🖼️ Computer Vision**  
+OpenCV  
 
-### 🐍 Programming
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+**🐍 Programming**  
+Python
+
 
