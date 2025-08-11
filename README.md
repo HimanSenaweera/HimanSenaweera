@@ -15,16 +15,27 @@
 
 ## Languages and Tools 💻🛠️
 
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="opencv" width="40" height="40"/>
+<p align="left">
+  <!-- Machine Learning -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/LaTeX_logo.svg" alt="latex" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" width="40" height="40"/>
+  
+  <!-- Python & Data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/>
+
+  <!-- Computer Vision -->
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.svg" alt="opencv" width="40" height="40"/>
+
+  <!-- NLP & AI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_LangChain.png" alt="langchain" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
 </p>
 
----
 
 ## Projects ⚙️👨‍💻
 
