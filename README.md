@@ -1,5 +1,5 @@
 
-<h1 align="center"># Hi 👋, I'm Himan Senaweera</h1>
+<h1 align="center"> Hi 👋, I'm Himan Senaweera</h1>
 
 ---
 
