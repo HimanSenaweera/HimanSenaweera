@@ -42,8 +42,8 @@
 |--------------------------|---------------------------|--------------------|----------------|
 | Machine Learning         | NumPy                     | OpenCV             | Python         |
 | Deep Learning            | Pandas                    | YOLO               | C++            |
-| Generative AI            | Jupyter Notebook          |                    | C              |
-| Natural Language Processing (NLP) |                           |                    |                |
+| Generative AI            |                           |                    | C              |
+| Jupyter                  |                           |                    |                |
 | LangChain                |                           |                    |                |
 | TensorFlow & Keras       |                           |                    |                |
 | Scikit-learn             |                           |                    |                |
