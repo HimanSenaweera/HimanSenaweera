@@ -1,40 +1,12 @@
 
 <h1 align="center"># Hi 👋, I'm Himan Senaweera</h1>
 
-
-
-
-
 ---
 
 ## An Electronic and Telecommunication Engineering Undergraduate from Sri Lanka
 
 - 🪐 I’m currently learning **Machine Learning, Deep Learning & AI**.  
  ---
-
-## Languages and Tools 💻🛠️
-
-<p align="left">
-  <!-- Machine Learning -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" width="40" height="40"/>
-  
-  <!-- Python & Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/>
-
-  <!-- Computer Vision -->
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.svg" alt="opencv" width="40" height="40"/>
-
-  <!-- NLP & AI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_LangChain.png" alt="langchain" width="40" height="40"/>
-  
-  <!-- Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
-</p>
-
 
 ## Projects ⚙️👨‍💻
 
@@ -61,6 +33,35 @@
 ### 🤖 Robotics
 - **Restaurant Robot** *(Group Project)* [GitHub](https://github.com/HimanSenaweera/RestaurantRobot.git)  
   - Modular restaurant robot for autonomous navigation, food delivery, and guest interaction.  
-  - Programmed the **SAM3X8E** microcontroller using **register-level C** in **Microchip Studio**.  
+  - Programmed the **SAM3X8E** microcontroller using **register-level C** in **Microchip Studio**.
+ 
 ---
+## Skills 💡
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_LangChain.png" alt="LangChain" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Generative AI" width="40" height="40"/>
+</p>
+
+### 📊 Data Science & Analysis
+<p>
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
+</p>
+
+### 🖼️ Computer Vision & NLP
+<p>
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3655/3655587.png" alt="NLP" width="40" height="40"/>
+</p>
+
+### 🐍 Programming
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
 
