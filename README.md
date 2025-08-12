@@ -36,15 +36,12 @@
   - Programmed the **SAM3X8E** microcontroller using **register-level C** in **Microchip Studio**.
 
 ### 🎙️ Electronics
--**Analog Voice-Over Circuit with Channel Prioritization** *(Individual Project)* — [GitHub]([https://github.com/HimanSenaweera/RestaurantRobot.git](https://github.com/HimanSenaweera/Analog-Voice-Over-Device.git))
+- **Analog Voice-Over Circuit with Channel Prioritization** *(Individual Project)* — [GitHub]([https://github.com/HimanSenaweera/RestaurantRobot.git](https://github.com/HimanSenaweera/Analog-Voice-Over-Device.git))
 
-Designed and implemented a fully analog voice-over circuit with automatic prioritization between two audio channels.
-
-Developed band-pass filter, pre-amplifier, peak detector, and comparator stages using discrete analog components.
-
-Integrated adjustable detection threshold and independent volume control for both channels.
-
-Implemented purely analog switching without digital processors, ensuring high-fidelity signal output.
+  - Designed and implemented a fully analog voice-over circuit with automatic prioritization between two audio channels.
+  - Developed band-pass filter, pre-amplifier, peak detector, and comparator stages using discrete analog components.
+  - Integrated adjustable detection threshold and independent volume control for both channels.
+  - Implemented purely analog switching without digital processors, ensuring high-fidelity signal output.
 ---
 ## Skills 💡
 
