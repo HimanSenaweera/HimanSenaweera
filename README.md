@@ -35,8 +35,8 @@
   - Modular restaurant robot for autonomous navigation, food delivery, and guest interaction.  
   - Programmed the **SAM3X8E** microcontroller using **register-level C** in **Microchip Studio**.
 
-###🎙️ Electronics
--**Analog Voice-Over Circuit with Channel Prioritization** *(Individual Project)* — [GitHub](https://github.com/HimanSenaweera/RestaurantRobot.git)
+### 🎙️ Electronics
+-**Analog Voice-Over Circuit with Channel Prioritization** *(Individual Project)* — [GitHub]([https://github.com/HimanSenaweera/RestaurantRobot.git](https://github.com/HimanSenaweera/Analog-Voice-Over-Device.git))
 
 Designed and implemented a fully analog voice-over circuit with automatic prioritization between two audio channels.
 
