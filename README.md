@@ -18,7 +18,7 @@
 - **Potato Disease Classification using CNN** *(Individual Project)* [GitHub](https://github.com/HimanSenaweera/Deep-learning.git)  
   - Collected and preprocessed potato leaf disease dataset from **Kaggle**.  
   - Designed & trained **CNN** using **TensorFlow & Keras**, achieving **98% accuracy**.  
-  - Developed responsive **React.js** frontend and lightweight **FastAPI** backend.  
+  - Built the web app with **Streamlit**..  
 
 - **A Langchain App to Chat with Multiple PDFs** *(Individual Project)* [GitHub](https://github.com/HimanSenaweera/Langchain-App-.git)  
   - Used **LangChain** for text extraction, chunking, and similarity matching.  
