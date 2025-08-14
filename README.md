@@ -43,17 +43,32 @@
   - Integrated adjustable detection threshold and independent volume control for both channels.
   - Implemented purely analog switching without digital processors, ensuring high-fidelity signal output.
 ---
-## Skills 💡
+## 🛠 Skills
 
-| 🤖 Machine Learning & AI | 📊 Data Science & Analysis | 🖼️ Computer Vision | 💻 Programming |
-|--------------------------|---------------------------|--------------------|----------------|
-| Machine Learning         | NumPy                     | OpenCV             | Python         |
-| Deep Learning            | Pandas                    | YOLO               | C++            |
-| Generative AI            |                           |                    | C              |
-| Jupyter                  |                           |                    |                |
-| LangChain                |                           |                    |                |
-| TensorFlow & Keras       |                           |                    |                |
-| Scikit-learn             |                           |                    |                |
+### 🤖 Machine Learning & AI  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-102230?style=for-the-badge&logo=keras&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-102230?style=for-the-badge&logo=openai&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-102230?style=for-the-badge&logo=jupyter&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-102230?style=for-the-badge)  
+![TensorFlow & Keras](https://img.shields.io/badge/-TensorFlow%20%26%20Keras-102230?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
 
+### 📊 Data Science & Analysis  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+---
+
+### 🖼 Computer Vision  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge)
+
+---
+
+### 💻 Programming  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
