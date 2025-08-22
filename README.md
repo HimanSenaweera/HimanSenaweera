@@ -7,43 +7,43 @@
 - 🪐 I’m currently learning **Machine Learning, Deep Learning & AI**.  
  ---
 
-## 🛠 Skills
+<h3 align="left">🧰 Technologies & Tools</h3>
 
-### 🤖 Machine Learning & AI  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-102230?style=for-the-badge&logo=keras&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-102230?style=for-the-badge&logo=jupyter&logoColor=white) 
-![LangChain](https://img.shields.io/badge/-LangChain-102230?style=for-the-badge) 
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
-![TensorFlow & Keras](https://img.shields.io/badge/-TensorFlow%20%26%20Keras-102230?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  
+  <!-- Runtime / Langs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 
----
+  <!-- ML / Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.simpleicons.org/streamlit" height="40" alt="Streamlit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <!-- LangChain / YOLO aren't on icon CDNs; using slim badges -->
+  <img src="https://img.shields.io/badge/LangChain-2B2B2B?style=for-the-badge" height="24" alt="LangChain" />
+  <img src="https://img.shields.io/badge/YOLO-2B2B2B?style=for-the-badge" height="24" alt="YOLO" />
 
-### 📊 Data Science & Analysis  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge)
+  <!-- Cloud / DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 
----
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
 
-### 🖼 Computer Vision  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge)
-
----
-
-### 💻 Programming  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
-
- ---
- 
-### ☁️ Cloud Computing
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  <!-- Hardware / Design -->
+  <img src="https://cdn.simpleicons.org/arduino" height="40" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+</p>
 
  ---
  
