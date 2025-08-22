@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Himan Senaweera</h1>
 <h1 align="center"> An Electronic and Telecommunication Engineering Undergraduate from Sri Lanka </h1>
- ---
-- 🪐 I’m currently learning ** Machine Learning, Deep Learning & AI **.  
+
+## 🪐 I’m currently learning ** Machine Learning, Deep Learning & AI **.  
  ---
 ## Skills 👨‍💻🤹
 
