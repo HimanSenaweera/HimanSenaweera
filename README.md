@@ -21,12 +21,11 @@
   <img src="https://cdn.simpleicons.org/streamlit" height="40" alt="Streamlit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
   
-  <!-- LangChain / YOLO aren't on icon CDNs; using slim badges -->
-  <img src="https://img.shields.io/badge/LangChain-2B2B2B?style=for-the-badge" height="24" alt="LangChain" />
-  <img src="https://img.shields.io/badge/YOLO-2B2B2B?style=for-the-badge" height="24" alt="YOLO" />
+<!-- pretty “widgets” -->
+  <img src="https://img.shields.io/badge/LangChain-0A7C66?style=for-the-badge&labelColor=0A7C66&logoColor=white" height="28" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&labelColor=111111&logoColor=white" height="28" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS"/>
 
-  <!-- Cloud / DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 
 </p>
