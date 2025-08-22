@@ -10,9 +10,9 @@
   
   <!-- Runtime / Langs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-
-  <!-- ML / Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://www.svgrepo.com/show/354127/numpy.svg" height="40" alt="NumPy"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" height="40" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.simpleicons.org/streamlit" height="40" alt="Streamlit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
