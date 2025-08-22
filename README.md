@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
   
 <!-- pretty “widgets” -->
-  <img src="https://img.shields.io/badge/LangChain-0A7C66?style=for-the-badge&labelColor=0A7C66&logoColor=white" height="28" alt="LangChain"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAg1AAZAA0" height="28" alt="LangChain"/>
   <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&labelColor=111111&logoColor=white" height="28" alt="YOLO"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS"/>
 
