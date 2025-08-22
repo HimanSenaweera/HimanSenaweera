@@ -11,8 +11,7 @@
 
 ### 🤖 Machine Learning & AI  
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-102230?style=for-the-badge&logo=keras&logoColor=white) 
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-102230?style=for-the-badge&logo=openai&logoColor=white) 
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-102230?style=for-the-badge&logo=keras&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-102230?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/-LangChain-102230?style=for-the-badge) 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
