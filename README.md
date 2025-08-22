@@ -17,7 +17,7 @@
   <img src="https://cdn.simpleicons.org/streamlit" height="40" alt="Streamlit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
   <img src="Docker.svg" height="40" alt="Docker" />
-  <img src="Aws-Dark.svg" height="40" alt="AWS"/>
+  <img src="AWS-Dark.svg" height="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
 
 
