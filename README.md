@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hi 👋, I'm Himan Senaweera</h1>
 
 ---
@@ -18,7 +17,7 @@
 - **Potato Disease Classification using CNN** *(Individual Project)* [GitHub](https://github.com/HimanSenaweera/Deep-learning.git)  
   - Collected and preprocessed potato leaf disease dataset from **Kaggle**.  
   - Designed & trained **CNN** using **TensorFlow & Keras**, achieving **98% accuracy**.  
-  - Built the web app with **Streamlit**..  
+  - Built the web app with **Streamlit**.  
 
 - **A Langchain App to Chat with Multiple PDFs** *(Individual Project)* [GitHub](https://github.com/HimanSenaweera/Langchain-App-.git)  
   - Used **LangChain** for text extraction, chunking, and similarity matching.  
@@ -36,13 +35,14 @@
   - Programmed the **SAM3X8E** microcontroller using **register-level C** in **Microchip Studio**.
 
 ### 🎙️ Electronics
-- **Analog Voice-Over Circuit with Channel Prioritization** *(Individual Project)* — [GitHub](https://github.com/HimanSenaweera/Analog-Voice-Over-Device.git)
-
+- **Analog Voice-Over Circuit with Channel Prioritization** *(Individual Project)* — [GitHub](https://github.com/HimanSenaweera/Analog-Voice-Over-Device.git)  
   - Designed and implemented a fully analog voice-over circuit with automatic prioritization between two audio channels.
   - Developed band-pass filter, pre-amplifier, peak detector, and comparator stages using discrete analog components.
   - Integrated adjustable detection threshold and independent volume control for both channels.
   - Implemented purely analog switching without digital processors, ensuring high-fidelity signal output.
+
 ---
+
 ## 🛠 Skills
 
 ### 🤖 Machine Learning & AI  
@@ -74,4 +74,10 @@
 ### 💻 Programming  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
+
+---
+
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
