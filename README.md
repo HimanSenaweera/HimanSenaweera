@@ -7,7 +7,7 @@
 - 🪐 I’m currently learning **Machine Learning, Deep Learning & AI**.  
  ---
 
-<h3 align="left">🤹 Skills</h3>
+## Skills 👨‍💻🤹
 
 <p align="left">
 
