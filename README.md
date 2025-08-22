@@ -40,7 +40,13 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
 
  ---
+ 
+### ☁️ Cloud Computing
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
+ ---
+ 
 ## Projects ⚙️👨‍💻
 
 ### 🧠 Machine Learning, Deep Learning, AI
@@ -75,10 +81,3 @@
   - Integrated adjustable detection threshold and independent volume control for both channels.
   - Implemented purely analog switching without digital processors, ensuring high-fidelity signal output.
 
-
-
----
-
-### ☁️ Cloud Computing
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
