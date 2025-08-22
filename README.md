@@ -48,7 +48,7 @@
   - Downloaded dataset from **UC Irvine ML Repository** and performed EDA using **Pandas**.  
   - Built models: **K-Means Clustering**, **DNN**, **Softmax Regression**, **Random Forest**, **XGBoost** with **Normalization**, **PCA**, and **Optuna** for hyperparameter tuning.  
 
-- **Potato Disease Classification using CNN** *(Individual Project)* [GitHub](https://github.com/HimanSenaweera/Deep-learning.git)  
+- ** `Potato Disease Classification using CNN `** *(Individual Project)* [GitHub](https://github.com/HimanSenaweera/Deep-learning.git)  
   - Collected and preprocessed potato leaf disease dataset from **Kaggle**.  
   - Designed & trained **CNN** using **TensorFlow & Keras**, achieving **98% accuracy**.  
   - Built the web app with **Streamlit** and deployed using **AWS ECS** and **Docker**.  
