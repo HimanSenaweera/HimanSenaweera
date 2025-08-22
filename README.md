@@ -19,7 +19,7 @@
   <img src="Docker.svg" height="40" alt="Docker" />
   <img src="AWS-Dark.svg" height="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/>
- <img src="yolo.svg" height="40" alt="Yolo"/>
+ <img src="yolo(1).svg" height="40" alt="Yolo"/>
 
 
 </p>
