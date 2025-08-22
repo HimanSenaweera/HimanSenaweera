@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Himan Senaweera</h1>
- ---
+
 ## An Electronic and Telecommunication Engineering Undergraduate from Sri Lanka
  ---
 - 🪐 I’m currently learning **Machine Learning, Deep Learning & AI**.  
