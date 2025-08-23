@@ -31,7 +31,7 @@
 ### 🧠 Machine Learning, Deep Learning, AI
 - `Estimation of Obesity Levels Using Machine Learning ` [GitHub](https://github.com/HimanSenaweera/Model-to-predict-obesity-Level.git)  
   - Downloaded dataset from **UC Irvine ML Repository** and performed EDA using **Pandas**.  
-  - Built models: **K-Means Clustering**, **DNN**, **Softmax Regression**, **Random Forest**, **XGBoost** with **Normalization**, **PCA**, and **Optuna** for hyperparameter tuning.  
+  - Built models: **K-Means Clustering**, **Softmax Regression**, **Random Forest**, **XGBoost** with **Normalization**, **PCA**, and **Optuna** for hyperparameter tuning.  
 
 - `Potato Disease Classification using CNN ` [GitHub](https://github.com/HimanSenaweera/Deep-learning.git)  
   - Collected and preprocessed potato leaf disease dataset from **Kaggle**.  
@@ -46,7 +46,7 @@
 ### 👁️ Computer Vision
 - `Computer Vision Projects`
   - Color detection and Face Anonymizer using **OpenCV** [GitHub](https://github.com/HimanSenaweera/OpenCV-projects.git)  
-  - Object Detection using **YOLOv8n** and Image Classification using **YOLO11n-cls** on custom dataset — [GitHub](https://github.com/HimanSenaweera/Face-Anonymizer-using-OpenCV.git)  
+  - Object Detection using **YOLOv8n** and Image Classification using **YOLO11n-cls** on custom dataset [GitHub](https://github.com/HimanSenaweera/Face-Anonymizer-using-OpenCV.git)  
 
 ### 🤖 Robotics
 - `Restaurant Robot` [GitHub](https://github.com/HimanSenaweera/RestaurantRobot.git)  
