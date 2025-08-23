@@ -29,7 +29,7 @@
 ## Projects 👨‍💻
 
 ### 🧠 Machine Learning, Deep Learning, AI
-- `Estimation of Obesity Levels Using Machine Learning ` [<img src="icons8-github-50.svg" alt="GitHub" width="22" height="22">](https://github.com/HimanSenaweera/Model-to-predict-obesity-Level)
+- `Estimation of Obesity Levels Using Machine Learning `  [GitHub](https://github.com/HimanSenaweera/Model-to-predict-obesity-Level)
 
  
   - Downloaded dataset from **UC Irvine ML Repository** and performed EDA using **Pandas**.  
