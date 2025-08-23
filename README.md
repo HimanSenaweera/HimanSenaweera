@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Himan Senaweera</h1>
-<h1 align="center"> An Electronic and Telecommunication Engineering Undergraduate from University of Moratuwa , Sri Lanka </h1>
+<h1 align="center"> An Electronic and Telecommunication Engineering Undergraduate 🎓 from University of Moratuwa , Sri Lanka </h1>
 
-## 🪐 I’m currently learning ***Machine Learning, Deep Learning & AI***.  
+## 👨‍🎓 I’m currently learning ***Machine Learning, Deep Learning & AI***.  
  ---
 ## Skills 🤹
 
@@ -53,7 +53,7 @@
   - Modular restaurant robot for autonomous navigation, food delivery, and guest interaction.  
   - Programmed the **SAM3X8E** microcontroller using **register-level C** in **Microchip Studio**.
 
-### 🎙️ Electronics
+### 🪫 Electronics
 - `Analog Voice-Over Circuit with Channel Prioritization` [GitHub](https://github.com/HimanSenaweera/Analog-Voice-Over-Device.git)  
   - Designed and implemented a fully analog voice-over circuit with automatic prioritization between two audio channels.
   - Developed band-pass filter, pre-amplifier, peak detector, and comparator stages using discrete analog components.
