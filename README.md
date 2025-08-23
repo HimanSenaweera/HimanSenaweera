@@ -3,7 +3,7 @@
 
 ## 🪐 I’m currently learning ***Machine Learning, Deep Learning & AI***.  
  ---
-## Skills 👨‍💻🤹
+## Skills 🤹
 
 <p align="left">
 
@@ -26,7 +26,7 @@
 
  ---
  
-## Projects ⚙️👨‍💻
+## Projects 👨‍💻
 
 ### 🧠 Machine Learning, Deep Learning, AI
 - `Estimation of Obesity Levels Using Machine Learning ` [GitHub](https://github.com/HimanSenaweera/Model-to-predict-obesity-Level.git)  
