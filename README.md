@@ -29,7 +29,7 @@
 ## Projects 👨‍💻
 
 ### 🧠 Machine Learning, Deep Learning, AI
-- `Estimation of Obesity Levels Using Machine Learning ` [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanSenaweera/Model-to-predict-obesity-Level)
+- `Estimation of Obesity Levels Using Machine Learning ` [![GitHub](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png)](https://github.com/HimanSenaweera/Model-to-predict-obesity-Level)
  
   - Downloaded dataset from **UC Irvine ML Repository** and performed EDA using **Pandas**.  
   - Built models: **K-Means Clustering**, **Softmax Regression**, **Random Forest**, **XGBoost** with **Normalization**, **PCA**, and **Optuna** for hyperparameter tuning.  
