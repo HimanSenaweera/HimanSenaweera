@@ -48,7 +48,7 @@
 ### 👁️ Computer Vision
 - `Computer Vision Projects`
   - Color detection and Face Anonymizer using **OpenCV** [GitHub](https://github.com/HimanSenaweera/OpenCV-projects.git)  
-  - Object Detection using **YOLOv8n** and Image Classification using **YOLO11n-cls** on custom dataset [GitHub](https://github.com/HimanSenaweera/YoloV8.git)  
+  - Object Detection using **YOLOv8n** and Image Classification using **YOLO11n-cls**. [GitHub](https://github.com/HimanSenaweera/YoloV8.git)  
 
 ### 🤖 Robotics
 - `Restaurant Robot` [GitHub](https://github.com/HimanSenaweera/RestaurantRobot.git)  
