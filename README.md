@@ -11,8 +11,7 @@
   <!-- Runtime / Langs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img src="https://www.svgrepo.com/show/354127/numpy.svg" height="40" alt="NumPy"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" height="40" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png?20200317115153" height="40" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.simpleicons.org/streamlit" height="40" alt="Streamlit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
